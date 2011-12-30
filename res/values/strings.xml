@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="hello">Hello World, Multi3DActivity!</string>
     <string name="app_name">3D Multiplayer</string>
-
+    <string name="test_3d">3D Test</string>
+    <string name="test_multi">3D Multiplayer Test</string>
 </resources>
