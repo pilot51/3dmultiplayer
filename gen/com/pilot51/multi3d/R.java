@@ -22,6 +22,8 @@ public final class R {
     }
     public static final class string {
         public static final int app_name=0x7f040000;
+        public static final int connect=0x7f040003;
+        public static final int connect_msg=0x7f040004;
         public static final int test_3d=0x7f040001;
         public static final int test_multi=0x7f040002;
     }
